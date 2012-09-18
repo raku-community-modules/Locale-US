@@ -1,0 +1,8 @@
+{
+    "name" : "Locale::US",
+    "version" : "0.0.1",
+    "description" : "Two letter codes for identifying states from the United States and vice versa",
+    "author" : "Jonthan Scott Duff",
+    "depends" : [],
+    "source-url" : "git://github.com/perlpilot/p6-Locale-US.git"
+}
