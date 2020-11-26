@@ -9,5 +9,5 @@
     },
     "author" : "Jonathan Scott Duff",
     "depends" : [],
-    "source-url" : "git://github.com/perlpilot/p6-Locale-US.git"
+    "source-url" : "git://github.com/raku-community-modules/Locale-US.git"
 }
