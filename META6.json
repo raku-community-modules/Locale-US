@@ -1,13 +1,25 @@
 {
-    "perl" : "6.*",
-    "name" : "Locale::US",
-    "version" : "0.0.1",
-    "license" : "Artistic-2.0",
-    "description" : "Two letter codes for identifying United States territories and vice versa",
-    "provides" : {
-        "Locale::US" : "lib/Locale/US.pm"
-    },
-    "author" : "Jonathan Scott Duff",
-    "depends" : [],
-    "source-url" : "git://github.com/raku-community-modules/Locale-US.git"
+  "auth": "zef:raku-community-modules",
+  "author": "Jonathan Scott Duff",
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Two letter codes for identifying United States territories and vice versa",
+  "license": "Artistic-2.0",
+  "name": "Locale::US",
+  "perl": "6.*",
+  "provides": {
+    "Locale::US": "lib/Locale/US.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "git://github.com/raku-community-modules/Locale-US.git",
+  "tags": [
+    "LOCALE",
+    "US"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.2"
 }
