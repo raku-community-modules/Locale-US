@@ -36,6 +36,16 @@ code-to-state
 
 Map a two-letter code to a state name (all uppercase).
 
+all-state-names
+---------------
+
+Returns a `List` of all state names in alphabetical order.
+
+all-state-codes
+---------------
+
+Returns a `List` of all state codes in alphabetical order.
+
 AUTHOR
 ======
 

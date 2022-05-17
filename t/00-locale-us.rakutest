@@ -1,4 +1,3 @@
-use v6;
 use Locale::US;
 use Test;
 
@@ -14,3 +13,5 @@ for @states -> $s {
     my $s2 = code-to-state($c);
     is $s, $s2, "State $s -> $c -> $s2";
 }
+
+# vim: expandtab shiftwidth=4
